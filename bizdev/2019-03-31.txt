@@ -1,0 +1,65 @@
+Alon Levy, [31.03.19 19:07]
+Participants:
+ Alon
+ Assaf
+ Bety
+ David
+ Moty
+ Ronen
+ Shay (jitsi)
+ Yair (jitsi)
+ Yonatan
+
+Meeting notes starting now for the weekly meeting
+(Alon writing)
+
+Alon gave an update on our cash flow per the bank:
+ start_march = 13808.36
+ end_march = 6360.16
+ end_march - start_march
+  -7448.200000000001
+
+ one_time_march = 4680 (accountant)
+
+ end_march - start_march + one_time_march
+ -2768.2000000000007
+
+But some of the incoming money was people paying forward for 6 months:
+ one_time_march = 4680 + ( - 1220 - 1200 - 1200) * 5.0/6
+ 1663.3333333333335
+
+ end_march - start_march + one_time_march
+  -5784.866666666667
+
+In other words: assuming we do not have 3 people giving 3620 nis paying for 6 months in advance, this month
+we can expect to almost drain our funds
+ 6380 - 5784 = 596
+
+ronen updated about paypal:
+ we have 4200. 200 goes to isaac, 1200 is sadna of Asaf, 3000 is member dues. It was 0 at 20.2 ~
+ there is 7% commision, only if there is actual transfer.
+
+Shay:
+ 16.4 Noam is proposing to lecture on real time (waiting for his)
+ Bio hub had 2 lectures in the last month. 20 people in each.
+
+Yonantan:
+ I submitted documents for "Mosad Mitnadev" status.
+
+ I discussed article 46, it requires a lot more paper work, I started looking into it.
+
+  - article 46 is a status for an amuta that allows donations to count against taxes.
+   - 35% of the donation amount for individuals
+   - 25% for companies
+
+  - nihul takin was submitted for 2019 (required for article 46)
+   - verified to be as "in processing" status
+
+ - have a patreon site ready to load need a little more review. Reviewers welcome!
+
+ - Our amuta goals have been changed to increase the chance of getting the 'mosad mitnadev' status
+  - the change reflects what we are doing. The original writing said things that could be taken
+    as us being a members only club. The new wording makes it clear we are open for everybody.
+
+Alon Levy, [31.03.19 20:00]
+The meeting has ended
