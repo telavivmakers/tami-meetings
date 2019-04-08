@@ -1,0 +1,107 @@
+Alon Levy, [7.04.19 19:15~]
+
+Participants:
+ Alon (jitsi)
+ David
+ Ronen (jitsi)
+ Shay (jitsi)
+ Yonatan
+
+Meeting notes starting now for the weekly meeting
+(Alon writing)
+
+Alon gave an update on our cash flow per the bank:
+ 14621.36
+ Alon will create a number for +/- from last month, and maybe a graph.
+
+Ronen mentioned there is 1200 nis in the Paypal
+ - Asaf took 800 nis also from 2 members
+
+Assaf's workshop: 4 people
+ - there are 2 more meetings
+
+we have wekan.telavivmakers.org, but not yet working.
+
+Ronen:
+ - Intro to TAMI on Thursday
+ - not enough biohub beers, need to buy beers
+ - Shay: beers at machon hadarom adjacent 24 bottles 89 nis, keep the bottles please.
+  - 1/3
+ - missing wood space man
+
+The place needs ordering for the Intro
+ - Yonatan will come to TAMI to order it after voting on Tuesday
+
+Wednesday there is also Asafs workshop, they will burn-in the
+ - Ronen volunteered to take a picture
+
+Ronen: Henry raised the issue of receipts: they will allow people to give more (people who have
+ a business to enter this as an expense for)
+ - Henry talked to his accountant who said this is fine
+ - Ronen talked to our accountant when he did an arduino workshop, and asked
+  - we need to give a regular receipt, not for truma
+ - needs a member meeting
+
+AI: suggested 18.4 meeting (next Thursday)
+
+Yonantan suggests we write down properly all the money going out for TAMI
+ - We need logging (which we are lame at anyway) and accounting
+ - Ronen: 2018 is too late, we cannot give receipts for 2018 already since we gave one for 2019
+
+Yonatan will talk to our accountants (who asked us explicitly to get receipts for anything we did)
+ - he will check about giving receipts for 2018 today
+
+Kobi doing images from space tomorrow
+
+Shay:
+ - last Monday there was a meeting with an export on network advertising
+ - discourse has notes
+  - https://discourse.telavivmakers.org/t/bizdev-expert-meeting-summary/517
+ - main points:
+  - move the wiki to subdomain
+  - frontpage: maybe wordpress? anything that is purpose built as a frontpage
+ - change the name of the page in facebook
+  - TAMI won't jump to anyone
+  - need to write in hebrew
+ - Suggestion for Russian translation: each language requires a new page
+  - if anyone wants a Russian page for instance, go for it
+ - Shay made a protocol for "how to make a workshop"
+  - https://docs.google.com/document/d/1UFokG_31MtygtzyIvNXpqyxSudVb-MIO9Nl1rahWyPs/
+ - Need to rewrite the "about"
+  - needs to be 2 sentences, Ronen has great writeup but too long
+  - need to publish something every day-two
+  - likewise in the Instagram
+  - otherwise it looks like the place is dead
+ - funzing & motke & hatzavaron hayarok
+ - collaborations with other entities
+ - need more banners for facebook - boring, just one, default for workshops
+ - poster A3 for TAMI, to put in Universities
+ - entrance needs a better recording device
+  - tablet suggested instead of book
+ - change the wording from hacker to maker
+  - hacker has a bad reputation
+ - last point: please tell Shay of any place you know we should share our events
+  - as well, it's better that there be a member who is in charge of doing the sharing, and adds text
+
+
+Yonatan
+ - Patreon is on
+ - only one video of David talking about the Lathe
+ - Evyatar joined marketing effort
+ - we need videos, and to keep sending them out constantly
+ - he wants to have a place to market and sell (i.e. e-shop) workshops
+
+Suggested to bring Michael to the close member meeting, to talk about using a bot
+ - there was a preliminary push back on Telegram
+
+(Suggestion by ___ ?) In order not to confuse between a member of the amuta and a member of TAMI, we should write up
+ "manuy of TAMI" instead of "member" when we ask for 400 nis / month
+
+Yonatan mentioned Evyatar may give a talk about autonomous vehicles (he heads a lab in GM dealing with that)
+
+Shay
+ - suggested making a 3d printed surprise for anyone coming to the intro meeting
+ - will ask moty to print ~50 total (15 shields with tami logo, 40 wrenches)
+
+Shay will update on discourse and google groups for any workshops and lectures.
+
