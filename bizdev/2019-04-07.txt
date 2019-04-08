@@ -1,4 +1,22 @@
-Alon Levy, [7.04.19 19:15~]
+Business Status meeting [7.04.19 19:15~]
+========================================
+
+Meeting is done weekly for tracking the status of the hackerspace since we are close to zero money point since losing our last major donor.
+
+These meetings started after a major meeting we had around February about the situation, where it was agreed overhelmingly that people wanted TAMI to remain.
+
+In order to do that we agreed on a number of measures designed to increase income and reduce expenses.
+
+These meetings are tracking the progress of those initiatives.
+
+What follows are the notes.
+
+This file is on git, anyone can submit a merge request to update it:
+
+ https://github.com/telavivmakers/tami-meetings/
+
+Meeting Notes
+=============
 
 Participants:
  Alon (jitsi)
@@ -6,9 +24,6 @@ Participants:
  Ronen (jitsi)
  Shay (jitsi)
  Yonatan
-
-Meeting notes starting now for the weekly meeting
-(Alon writing)
 
 Alon gave an update on our cash flow per the bank:
  14621.36
