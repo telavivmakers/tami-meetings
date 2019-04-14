@@ -1,0 +1,119 @@
+Business Status meeting [14.04.19 19:30]
+========================================
+
+Meeting is done weekly for tracking the status of the hackerspace since we are close to zero money point since losing our last major donor.
+
+These meetings started after a major meeting we had around February about the situation, where it was agreed overhelmingly that people wanted TAMI to remain.
+
+In order to do that we agreed on a number of measures designed to increase income and reduce expenses.
+
+These meetings are tracking the progress of those initiatives.
+
+What follows are the notes.
+
+This file is on git, anyone can submit a merge request to update it:
+
+ https://github.com/telavivmakers/tami-meetings/
+
+Meeting Notes
+=============
+
+Participants:
+ Yonatan
+ David
+ Omer
+ Noam
+ Assaf
+
+Alon gave an update on our cash flow per the bank:
+ 8412.92
+ Alon will create a number for +/- from last month, and maybe a graph.
+
+ Remaining this month:
+  Lawyer 4380 debt - not sure if will be payed this month. Will try to split.
+  - need to follow up with Yair
+  3850 - this month's arnona 2018
+
+David & Jonathan update on the open night
+ - many first time people
+  - 25-35 new people guestimate
+ - from 7/7:30, people started leaving after the bereshit crash (~11:30)
+ - to keep
+  - omer was at the metal working room all the time
+   - there were needed 2 people, Omer came by accident but was crucial
+ - for next time:
+  - make a demonstration with schedule
+   - metal working had it
+   - not other places
+  - There was not enough organizing help:
+   - most was on Ronen
+   - there was not enough preperation
+  - missing 3d printer place
+  - people expected a guide, there were not enough people to give that
+  - wood working room did not always have a person
+  - board for workshop registration:
+   - was not visible enough
+   - had 3 fixed workshops, should have an option to suggest a new workshop
+  - don't take a break without finding someone to cover for you
+  - bety: do not put food and drinks inside
+  - suggestions:
+   - make another two explanation points:
+    - circuit making
+    - arduino
+ - good things
+  - Yoav brought a physical game he created in the last few years, physiotherapy interactive mat
+
+David and Jonathan will organize the next event, scheduled for next month:
+ - date TBD
+
+David suggested printing QR codes of the donate buttons
+ - will be done after the meeting
+
+wekan.telavivmakers.org exists, for anyone
+
+Assaf will build a plexiglass donation box to replace the not very visible existing box
+
+Jonathan: working on making paying one of easier
+ - donation box location with computer and box
+ - Asaf will work with Jonathan for the computer
+
+Noam is lecturing on __ on Tuesday
+
+Assaf wants to start a new second Workshop
+ - Starts to learn on July
+ - waiting for paypal help
+
+Jonatan Patreon
+ - we have two:
+  - one for workshops / merchandise (i.e. t-shirts)
+  - one for supporting the space
+ - next work item is a marketing video
+  - He think it is critical
+  - found someone to work on it
+
+Visibility (Jonathan, David, Bety)
+ - Bathroom - WIP Jonathan
+ - Library
+ - Painting things
+
+
+David is restarting the TAMI out and is going to make a cleanup effort.
+
+Yair updated about lawyer that helped us with Arnona in the past
+ - we own him
+ - he agreed to reduce it to 2000 nis (about half)
+
+Alon to schedule a monthly meeting
+ - for raising concerns that don't fit anything else
+ - to drink beer
+ - to do concentrated cleanup efforts
+ - to show off
+
+
+
+Adjourned 20:35
+
+---
+wekan
+
+
