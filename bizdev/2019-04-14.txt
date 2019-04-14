@@ -109,7 +109,10 @@ Alon to schedule a monthly meeting
  - to do concentrated cleanup efforts
  - to show off
 
-
+Shay (wasn't on the meeting bus has some updates):
+- Please join our wekan (At least the marketing team)
+- I think most of the events are already there
+- Last week I was at 2 hackathon and I talked with some of the students about tami. Hopefully some of them will come. Next hackathon is in May.
 
 Adjourned 20:35
 
