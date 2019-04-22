@@ -1,0 +1,69 @@
+Business Status meeting [21.04.19 19:30]
+========================================
+
+Meeting is done weekly for tracking the status of the hackerspace since we are close to zero money point since losing our last major donor.
+
+These meetings started after a major meeting we had around February about the situation, where it was agreed overhelmingly that people wanted TAMI to remain.
+
+In order to do that we agreed on a number of measures designed to increase income and reduce expenses.
+
+These meetings are tracking the progress of those initiatives.
+
+What follows are the notes.
+
+This file is on git, anyone can submit a merge request to update it:
+
+ https://github.com/telavivmakers/tami-meetings/
+
+Meeting Notes
+=============
+
+Participants:
+ Keren
+ Assaf
+ Alon (note taker)
+ Jonatan
+ Shay (jitsi)
+ Noam
+
+Alon gave an update on our cash flow per the bank:
+ 9242
+ some stats: (April means this month, i.e. 1st until 23rd inclusive, and the [) notation is the 2nd of March inclusive and 1st of April exclusive range i.e. 30 days before this month)
+  April income 12086.00
+  April expense 10303.24
+  April net 1782.76
+  [2019-03-02…2019-04-01) income 7876.00
+  [2019-03-02…2019-04-01) expense 15540.00
+  [2019-03-02…2019-04-01) net -7664.00
+
+Keren
+ - Boxes status is pending, Keren will update later
+ - 3 weeks ago the sponsor who promised 50k saw TAMI and did not like it, and doesn't want to associate his company with it, and so he won't donate.
+ - How to make the place more appealing?
+  - planning to make
+
+ - Keren will talk to previous people who came to ask: what made you leave?
+ - Hack your DNA May
+  - Middle of May
+  - invested a lot of effort
+  - 4 people registered
+  - reduced from 600 to 400
+
+David and Jonatan: still todo set a date for next intro to tammy
+ - Keren & Ishay will help with Beer
+
+Assaf -
+ no one registered to the composite materials workshop
+ - looking for ideas: what will make people want to create from carbon fiber & epoxy?
+
+Noam updated about the real time linux meeting
+ - only 5 people came
+ - not going to continue unless we can figure out how to get more people
+
+Jonathan
+ - video of tadmit is still bottleneck
+ - I found someone to do it, they need a script
+ - I need help making the script
+
+meeting adjurned. Unusually there are multiple side talks but the note taker has to leave the keyboard.
+
