@@ -1,0 +1,60 @@
+19:15
+
+Yair
+Yonatan
+Alon
+David
+
+Alon:
+ 6xxx
+ Someone today at 9
+ - update: Dan came, he has a project he intends to open source, a low energy requirement bluetooth to IR bridge.
+ There were talks about moving discourse to a server outside tami due to multiple places (i.e. public routers) blocking us
+ - yuval said he will look into the blockers
+
+Yonatan:
+ - TAMI video
+  - made a tentative plan for the video.
+  - several people offered production help
+   - one offered to do it by himself, we need to rent equipment for him, 1k nis / day
+  - several others (yair, evyatar, shimrit) think it sounds bad
+   - working in a group would help tami.
+   - there is a need for several people to bounce ideas
+   - that's the direction Yonatan is taking
+ - Ronen said he wants more people in marketing and beuracracy
+  - agree strongly (so does Shay)
+ - We are now officially open 4.5 days a week
+  - not sure for how long
+  - David until pension (kidding)
+  - Jeremy might be able to do the remaining half day
+
+
+David
+ - open night: did a wekan for the required subtasks, and roles for people, hoping it won't be too much.
+  - we need 5 people, for preparation and for the event
+ - 30.5 is the date
+ - who can help?
+  - Yair said he can
+  - Yonatan
+  - Ronen
+  - AI: everybody, please review the intro wekan
+  - AI: Alon ask Keren about the beer - ask if it is on, if not will it be on time?
+ - AI: add Yair to wekan
+
+ - responsibility of key holders - what is it?
+  - how do we prevent people from using machines that are dangeurous without knowledge?
+  - do we want to add a key?
+  - AI: David will setup a code lock on the lathe and mill. To get the combination you will have to be approved by David.
+
+ - maintenance update:
+  - factory concept: LEAN manufacturing (Kaizen foam etc.)
+  - David will start using LEAN for the metal room
+  - will be a prototype ordering concept
+  - everyone is welcome to talk to him about it
+
+
+AI: Shay talk to Moty about 3d doodas for 30.5
+
+Alon
+ - pushed Jonathan to initiate a member meeting
+
