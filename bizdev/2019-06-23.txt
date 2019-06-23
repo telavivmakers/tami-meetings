@@ -1,0 +1,36 @@
+Update from Yair - we failed (again) to get mosad mitnadev. 
+Need to check why, maybe contest, get 33% for beit melacha
+Bank status: ~36750NIS
+Paypal:1050 ( 600 of which for the Soldering for beginners)
+Bitcoin wallet - to check who has it.
+From last meeting:
+Jonathan to write email to publicise the workshops, Ronen will send them via mailchimp
+
+Ronen - discourse, maybe we can use a solution (e.g. amazon) to send unlimited amounts of emails. 
+Landing page - Jossef working on it, will be the initial version for TAMI review.
+David - Kitchen workshop still working on it, I want to finish the knife 1st , need to check how much of the process I will outsource
+Asaf’s soldering workshop launched - we need to send email about it.  
+Movie night - we need to reach a consensus regarding how to operate it.
+
+Events - things are all on Shay, WE NEED A VOLUNTEER dedicated for it!
+
+Asaf - there’s lots of room to streamline the stations positioning in TAMI
+Stations not well positions, e.g. electronics - we have 3 partially functioning stations. 
+Nothing is properly sorted.
+I checked a few things. Since I am starting to study in Shenkar soon. 
+I want to create and manage the electronics components library
+I have a general idea how much it is going to cost.  Next week I will make a BOM with cost estimates. 
+
+Also we have all sorts of missing tools - 
+I will make a tool list
+
+Asaf - I have an idea for an arduino desk ( add to wekan)
+
+Makeathon this weekend :  Ronen - I want to make the door sensor, I may require help to update Telegram
+Another useful thing is to create a reminder at the door for people who enter so that they can say for how long they are staying. 
+
+Jonathan: Phone - we need to verify it works continuously. Last time we checked it didn’t . Sometimes it does, sometimes it doesn’t. 
+
+Ronen - remove the option to leave messages. Will be done. 
+
+End of meeting.
