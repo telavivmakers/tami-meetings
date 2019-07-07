@@ -1,0 +1,71 @@
+David, Shay, Ronen, Jonathan
+
+2019-07-07 19:25
+
+Ronen: started building an appeal / objection response to iriyat tel aviv regarding the Mosad Mitnadev rejection. 
+
+Jonathan:
+https://www.tel-aviv.gov.il/About/Pages/Support.aspx
+
+This section contains domains to which the municipality supports, supposedly supposed to provide its citizens.
+
+
+Events/ Workshops: 
+
+Eviatar's talk: it was very successful, many people arrived . >450 NIS from event/beer
+Makathon:
+
+Asaf's workshop: 9 people came.
+Asaf asked for a feedback form - draft created. 
+
+Shay: please provide link to where the pictures are stored, I will allocate to the relevant folder. 
+
+
+3D printing event: pictures taken by new (friendly) person called Motty. 
+quite a few people arrived 
+Roughly 20 people arrived.
+A young enthusiast and entreupreneur (13.5 YO) offered 3D pens to TAMI (need to verify it's free)
+Also suggested to do a workshop
+His main
+
+
+Motty's arduino workshop: 7 registered to the workshop
+
+Jonathan: Asaf wants to do the advanced soldering workshop, will fill the form.
+
+David: spoken to the guy that offered subsidised CNC services. 
+100NIS/hr (instead of 300) to whoever arrives via TAMI.
+
+Ronen: need to work on it. probably will be 2 lessons + 2 talks, perhaps free for whoever comes to the lessons. about motors, control & 
+
+transmission
+
+1st: types of motors, intro to PID
+2nd: transmission
+
+Perhaps will do a more general talk
+
+Discussion on Arduino workshop for programmers. 
+
+
+Ronen: been to municipality to pay for Arnona
+6000 NIS is for 8 months Arnona as Mosad midnatev of Beit Melacha
+
+
+Paypal: 
+2832 which is for the ( 420 - 15.5 ) * 7 workshops of Moti
+Kfir transferred what we had 2265 to ubank
+
+Ubank:  32,450.73 less ~ 719 NIS to IRIYA
+
+Shay: what about other events in July
+David: soon to be a lecture & workshop on knives, perhaps even in July
+
+Jonathan: what about Max's workshop
+Shay: Max needs to complete the material.
+
+Jonathan: what about another beginners workshop for soldering
+Shay: might as well while there's momentum.
+
+20:10 meeting ends
+
